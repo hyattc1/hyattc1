@@ -21,6 +21,4 @@
 <a href="https://instagram.com/cnnrhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnnrhy" height="30" width="40" /></a>
 </p>
 <p>&nbsp;</p>
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-784.gif"/>
-</p>
+<img width = 200 src="https://media1.tenor.com/m/8rYxK22VV8YAAAAd/berserk-guts-berserk.gif"/>
