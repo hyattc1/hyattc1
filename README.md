@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building my portfolio](https://github.com/hyattc1/Portfolio)
 
-- 🌱 I’m currently learning **PostgreSQL, Pycopg2, and Java.**
+- 🌱 I’m currently learning **PostgreSQL, Psycopg2, and Java.**
 
 - 🤝 I’m looking for help with **building an analytics club on my campus**
 
