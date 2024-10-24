@@ -20,4 +20,7 @@
 <a href="https://linkedin.com/in/connorhyatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connorhyatt" height="30" width="40" /></a>
 <a href="https://instagram.com/cnnrhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnnrhy" height="30" width="40" /></a>
 </p>
-<h1 align="center">![lightTurn](https://github.com/user-attachments/assets/3d1f4a13-fd01-4283-bbf2-1c08b624d9ac)</h1>h1
+<p>&nbsp;</p>
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-784.gif"/>
+</p>
