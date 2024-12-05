@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connor Hyatt</h1>
-<h3 align="center">A passionate Information Systems student at Carnegie Mellon University</h3>
+<h3 align="center">A gregarious Information Systems student at Carnegie Mellon University</h3>
 
 - 🔭 I’m currently working on [building my portfolio](https://github.com/hyattc1/Portfolio)
 
