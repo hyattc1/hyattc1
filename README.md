@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building my portfolio](https://github.com/hyattc1/Portfolio)
 
-- 🌱 I’m currently learning **PostgreSQL, MongoDB, and Java.**
+- 🌱 I’m currently learning **Ruby on Rails, Discreet math, and Taableau.**
 
 - 🤝 I’m looking for help with **building an analytics club on my campus**
 
