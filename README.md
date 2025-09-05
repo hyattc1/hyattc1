@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hyattc@cmu.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ryCZ2c0k81AVyIxXVqN6CVxb4u4doiAZ/view?usp=sharing)
-
 - ⚡ Fun fact **I collect Rubik's cubes**
 
 <h3 align="left">Connect with me:</h3>
