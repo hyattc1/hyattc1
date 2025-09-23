@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Connor Hyatt</h1>
 <h3 align="center">A gregarious Information Systems student at Carnegie Mellon University</h3>
 
-- 🔭 I’m currently working on [building my real estate Chrome extension](https://github.com/hyattc1/Real-Estate-Risk-Analysis)
+- 🔭 I’m currently finishing up [my real estate Chrome extension](https://github.com/hyattc1/Real-Estate-Risk-Analysis)
 
-- 🌱 I’m currently strenghthening **my leetcoding abilities for Python + SQL**
+- 🌱 I’m currently strenghthening **my leetcoding abilities for Python**
 
-- 🤝 I’m looking for help with **building a Financial Wellness club on my campus**
-
-- 💬 Ask me about **Japanese, skiing, and anything data related.**
+- 🚀 Building Stratos Labs, an AI platform to help consultants work smarter
 
 - 📫 How to reach me **hyattc@cmu.edu**
 
