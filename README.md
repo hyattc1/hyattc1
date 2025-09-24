@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor Hyatt</h1>
 <h3 align="center">A gregarious Information Systems student at Carnegie Mellon University</h3>
 
-- 🚀 Building Stratos Labs, an AI platform to help consultants work smarter
+- 🚀 Building Stratos Labs, an AI platform making consulting more efficient
 
 - 🔭 Finishing up [my real estate Chrome extension](https://github.com/hyattc1/Real-Estate-Risk-Analysis)
 
