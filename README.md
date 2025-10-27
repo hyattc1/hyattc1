@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor Hyatt</h1>
 <h3 align="center">A gregarious Information Systems student at Carnegie Mellon University</h3>
 
-- 🚀 Building Lunon, an AI platform transforming how consultants work
+- 🚀 Building [Lunon](https://www.lunon.ai), an AI platform transforming how consultants work
 
 - 🔭 Finishing up [my real estate Chrome extension](https://github.com/hyattc1/Real-Estate-Risk-Analysis)
 
