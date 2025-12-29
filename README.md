@@ -3,8 +3,6 @@
 
 - 🚀 Building [Lunon](https://www.lunon.ai), an AI platform transforming how consultants work
 
-- 🔭 Finishing up [my real estate Chrome extension](https://github.com/hyattc1/Real-Estate-Risk-Analysis)
-
 - 📫 How to reach me **hyattc@cmu.edu**
 
 - ⚡ Fun fact **I collect Rubik's cubes**
