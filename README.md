@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connor Hyatt</h1>
-<h3 align="center">A gregarious Information Systems student at Carnegie Mellon University</h3>
+<h3 align="center">A gregarious founder from Carnegie Mellon University</h3>
 
 - 🚀 Building [Lunon](https://www.lunon.ai), the first ever AI native consultng firm
 
